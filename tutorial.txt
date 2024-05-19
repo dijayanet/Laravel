@@ -1,0 +1,15 @@
+1. composer create-project laravel/laravel example-app
+2. cd example-app
+3. code .
+4. CTRL+SHIFT+~
+5.  ls
+6. cd example-app
+7. code .
+8. php artisan serve
+9. example-app.test
+10. php artisan make:controller example-app
+11. CTRL+P
+12. php artisan migrate
+13. php artisan make:seeder User:Seeder
+
+
